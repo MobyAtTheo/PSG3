@@ -43,3 +43,9 @@ https://git.wiki.kernel.org/index.php/GitCheatSheet
 ```
 git clone git@github.com:MobyAtTheo/PSG3.git
 ```
+
+### HowTo Clone this repo Read-Only:
+```
+git clone https://github.com/MobyAtTheo/PSG3.git
+```
+
