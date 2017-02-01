@@ -16,7 +16,7 @@ Allen B. Downey
 ### Book download:
 http://greenteapress.com/wp/think-python-2e/
 
-Buy book at Amazon (see link on above page)
+#### Buy book at Amazon (see link on above page)
 
 ## Chat
 Slack
@@ -38,3 +38,8 @@ Slack
 - Git HOWTO:
 https://git.wiki.kernel.org/index.php/GitCheatSheet
 -
+
+### HowTo Clone this repo:
+```
+git clone git@github.com:MobyAtTheo/PSG3.git
+```
