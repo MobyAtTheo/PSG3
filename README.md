@@ -5,6 +5,7 @@ Notes and the book used for the Python Study Group
 
 ## What should I do to get started?
 Using the links under Tools (below)
+
 1. Download python 3.6.0
 1. Download git for your platform
 1. Download slack
