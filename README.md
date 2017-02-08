@@ -3,6 +3,16 @@ Notes and the book used for the Python Study Group
 
 ## Covering Python3
 
+## What should I do to get started?
+Using the links under Tools (below)
+1. Download python 3.6.0
+1. Download git for your platform
+1. Download slack
+1. Install python3 for your platform
+1. Install git for your platform
+1. ```git clone``` this repository
+1. join the slack channel
+
 
 ## Book for Study Group
 
@@ -15,6 +25,8 @@ Allen B. Downey
 
 ### Book download:
 http://greenteapress.com/wp/think-python-2e/
+
+### Direct PDF book download: http://greenteapress.com/thinkpython2/thinkpython2.pdf
 
 #### Buy book at Amazon (see link on above page)
 
@@ -49,3 +61,11 @@ git clone git@github.com:MobyAtTheo/PSG3.git
 git clone https://github.com/MobyAtTheo/PSG3.git
 ```
 
+
+### Week 01
+Kickoff meeting on Tuesday!
+Read chapter 1 & ch 2
+
+### Week 02 (current)
+Meet on Tuesday to discuss ch1 & ch2
+Read ch3 & ch4
