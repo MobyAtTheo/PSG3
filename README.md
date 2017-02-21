@@ -67,6 +67,18 @@ git clone https://github.com/MobyAtTheo/PSG3.git
 Kickoff meeting on Tuesday!
 Read chapter 1 & ch 2
 
-### Week 02 (current)
+### Week 02 
 Meet on Tuesday to discuss ch1 & ch2
 Read ch3 & ch4
+
+### Week 03 20170221
+Meet on Tuesday to discuss ch4 & ch5 
+Read ch6 & ch7 for next week
+
+
+#### Future plans 
+### Week 04 
+Meet on Tuesday to discuss ch6 & ch7 
+Read ch8 & ch9 (ch8 strings!)
+
+
