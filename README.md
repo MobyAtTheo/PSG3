@@ -78,7 +78,7 @@ Read ch6 & ch7 for next week
 
 #### Future plans 
 ### Week 04 
-Meet on Tuesday to discuss ch6 & ch7 
+Meet on Tuesday to discuss ch6 & ch7
 Read ch8 & ch9 (ch8 strings!)
 
 
